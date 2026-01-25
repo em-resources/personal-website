@@ -1,3 +1,3 @@
 # Personal portfolio website
 
-feel free to steal my code, send me a message if you build something cool with it :)
+feel free to steal my code. And send me a message if you make something with it, I would love to see it :)
