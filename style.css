@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
 }
-
 *{
   cursor: url('icons/cursor1.cur'),crosshair;
 }
@@ -10,50 +9,20 @@ a:hover{
   cursor: crosshair;
 }
 
-
-
-
-body{
-  min-height: 100vh;
-  background-color: #e4e4e4;
-  font-family: Helvetica, sans-serif;
+body {
+  background-image: url('images/noise2.gif');
 }
 
-
-
-
-
-
-
-@media(max-width: 605px){
-  .hideOnMobile{
-    display: none;
-  }
-}
-@media(max-width: 430px){
-  .sidebar{
-    width: 100%;
-  }
+h1 {
+  text-align: center;
 }
 
-
-
-
-
-
-p{
-  color: #2e2e2e;
+body, p{
+  font-family: "Helvetica", sans-serif;
+  font-weight: 900;
+  color: white;
 }
 
 a{
   text-decoration: none;
-}
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: rgba(0, 0, 0, 0);
-   color: 2e2e2e;
-   text-align: center;
 }
