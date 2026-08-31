@@ -1,21 +1,9 @@
   /* { 
-    background-color: black;
-    background-image: url('images/brus3_darker.gif');
-    background-size: 50%;
-    color: white;
-    
-    
-    bashat ihop flera css docs
+    background-color: white;
     
   }*/
   * {
-    background-color: black;
-    background-image: url('images/20230408V1_compressed.gif');
-    background-repeat: repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: 500%;
-    color: white;
+    background-color: white;
   }
   a { 
     text-decoration: none;
@@ -200,11 +188,11 @@ img {
 .links {
   text-align: center;
   font-family: Courier New, monospace;
-  color: white;
-  background-color: red;
+  color: black;
+  background-color: white;
 }
 .links a:link{
-    color: white;
+    color: black;
 }
 
 
